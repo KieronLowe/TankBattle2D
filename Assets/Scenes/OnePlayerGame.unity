@@ -1478,7 +1478,7 @@ MonoBehaviour:
   VerticalInput_P1: 0
   VerticalInput_P2: 0
   MovementSpeed: 5
-  RotationSpeed: 5
+  RotationSpeed: 1
 --- !u!114 &358061068
 MonoBehaviour:
   m_ObjectHideFlags: 0
